@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+h1{
+    color: red;
+}
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    font-size: 3em;
+}
+p{
+    font-size: 1em;
+    color: white;
+}
